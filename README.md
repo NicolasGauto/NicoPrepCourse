@@ -1,2 +1,1 @@
-# NicoPrepCourse
-Repositorio de prueba del modulo 2 de prepcourse
+Prueba de crear y clonar repositorio papá
